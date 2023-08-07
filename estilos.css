@@ -196,3 +196,25 @@ html{
     padding: 20px 0; 
     margin-bottom: auto;
 }
+
+.educ .contenido-educacion  span{
+    font-size: 20px;
+    color: #a388ad;
+    font-weight: bold;
+}
+.educ .fila{
+    display: flex;
+}
+
+.educ .fila .col{
+    width: 100%;
+}
+
+.educ .emp{
+    margin: auto;
+    text-align: center;
+}
+
+.educ table{
+    width: 100%;
+}
